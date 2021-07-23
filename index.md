@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+### устойчивая 
+
+```
+_ustoychivaya_
+steady
+```
 
 You can use the [editor on GitHub](https://github.com/pauldanielconway/investopedia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
