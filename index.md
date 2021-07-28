@@ -9,7 +9,7 @@
 | infrastructure | инфраструктура | infrastruktura | 1 |
 | infrastructure | инфраструктуры | infrastruktury | 1 | 
 | for | для | dlya | 1 |
-| low carbon | низкоуглеродного | nizkoyglerodnoro | 1 |
+| low carbon | низкоуглеродного | nizkouglerodnogo | 1 |
 | development | развития | razvitiya | 1 |
 | in | b | v | 4 |
 | central | центральной | tsentral'noy | 2 |
@@ -41,5 +41,9 @@
 | existing | существующих | sushchestvuyushchikh | 1 |
 | eight | восьми | vos'mi | 1 | 
 | countries | странах | stranakh | 1 |
-| 
+| Azerbaijan | Aзербайджане | azerbaydzhane | 1 |
+| Georgia | грузии | gruzii | 1 |
+| Kazakhstan | казахстане | kazakhstanye | 1 |
+| Kyrgyz Republic | кыргызской республике | kyrgyzskoy respublike | 1 |
+| Sunday | воскресенье | voskresen'ye | 1 |
 
